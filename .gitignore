@@ -39,6 +39,9 @@ jspm_packages/
 # TypeScript v1 declaration files
 typings/
 
+# CSS ignore
+/www/css/style.css
+
 # Optional npm cache directory
 .npm
 
