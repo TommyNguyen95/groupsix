@@ -9607,5 +9607,8 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
 }
+h1 {
+  font-size: 70px;
+}
 
 /*# sourceMappingURL=style.css.map */
